@@ -1,4 +1,4 @@
-# os-Threads
+
 # OS Threads – Multi-threaded Web Server
 
 This repository contains the implementation of a multi-threaded web server, developed as part of the Operating Systems course at Technion.
